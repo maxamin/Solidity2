@@ -36,4 +36,4 @@ Each audit report may include:
 
 ### 📥 Clone the Repository
 ```bash
-git clone https://github.com/maxamin/Solidity3.git
+git clone https://github.com/maxamin/Solidity2.git
